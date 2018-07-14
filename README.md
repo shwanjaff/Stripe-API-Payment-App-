@@ -21,8 +21,8 @@ composer install
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Shwa Jaff Traversy
+[Shwan Jaff](http://www.shwanjaff.com)
 
 ### Version
 
